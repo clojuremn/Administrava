@@ -1,0 +1,47 @@
+* ClojureMN State of the Union
+** (inc (conj mn clojure))
+*** Outreach
+**** Don't regret
+**** People are like "BLEH, Whats that!?" at other meetups
+**** Evangelism in other meetups
+**** Accessible to Marginalized groups
+*** Location
+*** Clojurebridge to a younger crowd.
+*** Companies willing to state they use clojure
+*** Cross Polinate
+*** Learn from Dan Callahan!
+*** Networking
+*** JOBZ!
+*** Learn from Seattle!
+*** Sponsorship
+*** WORKSHOPS
+*** Next Level Content Generation
+**** Talk material online
+**** Slides
+**** Workshops
+**** slides, lighting, camera, audio
+*** Lay Waste to Hackathons with Parens, Pack Heat
+**** codeswitch
+*** Simple, for non-developers
+*** How do you
+**** Basics and Best Practices
+***** set up a static website
+***** set up a dynamic website
+***** Debug problems
+***** editor setup
+****** language server protocol!?
+****** vs code (thats what the kids use these days?)
+**** Community Commonly used tasks
+***** Lein/Deps/Boot Tutorial
+*** Office Hours
+*** Learning Presentation (Mob Programming?)
+Here's my problem, how would you'all solve this?
+*** Hack Night
+*** How do I do X in clojure?
+*** Disseminate "Solving the Expression Problem"
+*** Articulate to non-clojurians the value of the problems clj solves
+ Articulate to non-clojure programmers the name of the problems they run into that clojure solves
+*** Lisp should no longer be relegated to the AI winter, come in from the cold
+*** What is idiomatic clojure? Not syntax, but design
+*** Show a talk or Tutorial and then have a discussion (or during)
+*** How to set clojure up clojure on x machine. M$, Arch, mac, etc.
